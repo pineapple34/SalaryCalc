@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\bin\Debug\SalaryCalc.exe.config
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\bin\Debug\SalaryCalc.exe
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\bin\Debug\SalaryCalc.pdb
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc_MarkupCompile.cache
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc_MarkupCompile.lref
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.g.resources
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.Properties.Resources.resources
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.exe
+C:\Users\Asus\Desktop\repo\.WPF\SalaryCalc\SalaryCalc\obj\Debug\SalaryCalc.pdb
